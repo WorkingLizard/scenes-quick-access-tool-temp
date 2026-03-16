@@ -1,0 +1,13 @@
+{
+    "name": "com.company.scenes.quick.access.tool.Editor",
+    "references": ["com.company.scenes.quick.access.tool.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
