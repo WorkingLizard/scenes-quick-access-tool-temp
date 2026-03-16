@@ -1,0 +1,14 @@
+{
+    "name": "com.tyradman.scenes-quick-access-tool",
+    "version": "1.0.0",
+    "displayName": "Scenes Quick Access Tool",
+    "description": "A tool that allows quick access to all the scenes in the project by pressing Shift + S.",
+    "unity": "2021.3",
+    "unityRelease": "0f1",
+    "license": "MIT",
+    "keywords": [],
+    "author": {
+        "name": "Ty Radman"
+    },
+    "dependencies": {}
+}
